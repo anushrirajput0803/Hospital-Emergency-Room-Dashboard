@@ -16,4 +16,5 @@ This project is an interactive Excel dashboard analyzing hospital emergency room
 - Slicers
 - Data Cleaning
 
-![Dashboard Screenshot](Hospital Emergency Room Dashboard(3).png)
+<img width="1467" height="627" alt="Hospital Emergency Room Dashboard(3)" src="https://github.com/user-attachments/assets/1c001a57-c948-4adc-a9d1-88022fd12883" />
+
